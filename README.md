@@ -1,2 +1,2 @@
 # SolarPowerOutput
-This is my AICTE Virtual Internship - Cycle 3
+This is AICTE Virtual Internship - Cycle 3
